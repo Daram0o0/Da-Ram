@@ -35,9 +35,8 @@
 </div>
 
 <br>
-
-
 <br>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daram0o0" />
@@ -52,12 +51,12 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" onclick="window.location.href='https://www.notion.so/Intro-c57c7ea7e0d64603bd1be7451d7fc891?pvs=4'" style="cursor: pointer;" />
-  <img src="https://img.shields.io/badge/1129jiho@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" onclick="window.location.href='mailto:1129jiho@naver.com'" style="cursor: pointer;" />
+  <a href="https://www.notion.so/Intro-c57c7ea7e0d64603bd1be7451d7fc891?pvs=4" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a><a href="mailto:1129jiho@naver.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/1129jiho@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-
-
-
 
 
 
