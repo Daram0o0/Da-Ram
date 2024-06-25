@@ -2,7 +2,7 @@
 <!-- Hi there 👋-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jiho's%20GitHub&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hi!%20I'm%20Jiho&fontSize=50" />
   </div>
   
   <h3 align="center">✨ Tech Stack ✨</h3>
